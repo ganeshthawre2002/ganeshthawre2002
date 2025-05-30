@@ -8,7 +8,7 @@
 ## 🚀 About Me
 
 I'm currently pursuing a Bachelor's in Commerce in Computer Applications (BCCA), with a strong focus on 
-**data analytics, AI tools, and business intelligence**. My passion lies in exploring how data can solve real-world problems and drive business growth.
+**data analytics, AI tools, Generative AI and business intelligence**. My passion lies in exploring how data can solve real-world problems and drive business growth.
 
 I combine traditional analytical tools like **SQL, Excel, and Python** with **modern AI tools like ChatGPT and Generative AI platforms** to accelerate workflows, 
 automate reporting, and generate insights faster and smarter.
